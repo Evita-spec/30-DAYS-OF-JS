@@ -1,0 +1,9 @@
+Difference between null and undefined
+null is a special value meaning "no value". null is a special object because typeof null returns 'object'. On the other hand, undefined means that the variable has not been declared, or has not been given a value.
+undefined represents the value of a variable that wasn't yet initialized, while null represents an intentional absence of an object.
+What is NaN?
+In JavaScript, NaN stands for Not a Number. 
+It represents a value which is not a valid number. 
+It can be used to check whether a number entered is a valid number or not a number.
+What is a typeof NaN?
+ It is a numeric data type whose value cannot be represented using actual numbers.
